@@ -1,0 +1,15 @@
+{
+  "id": "Paymo",
+  "name": "Paymo",
+  "version": "1.0.0",
+  "description": "Paymo time tracker app",
+  "main": "index.js",
+  "author": "Alex Devero",
+  "license": "MIT",
+  "repository": "https://github.com/alexdevero/franz-paymo-recipe",
+  "config": {
+    "hasNotificationSound": false,
+    "hasIndirectMessages": false,
+    "serviceURL": "https://app.paymoapp.com/"
+  }
+}
